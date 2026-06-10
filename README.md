@@ -1,3 +1,3 @@
 # Data Engineering Showcase
 
-A collection of real-world Data Engineering projects built using Azure Data Factory, Databricks, PySpark, Delta Lake, Synapse Analytics, SQL, and Data Warehousing concepts.
+A collection of end-to-end Azure Data Engineering projects showcasing ETL/ELT pipelines, Data Warehousing, Lakehouse Architecture, PySpark transformations, data modeling, pipeline orchestration, and cloud-based analytics solutions using modern Azure services.
